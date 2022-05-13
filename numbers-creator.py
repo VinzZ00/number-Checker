@@ -1,4 +1,4 @@
-print('\n\nWelcome to numbers Creator, \nHere you will have the chance to know how number(s) are created using a multiply operation and this apps will help you as well to determine the prime number')
+print('\n\nWelcome to numbers Creator, \nHere you will have the chance to know what number(s) are created using a multiply operation and this apps will help you as well to determine the prime number')
 print('Please help yourself, Enjoy..')
 x = range (2, (int(input("Insert from zero to how many number? "))+1))
 y = 0
